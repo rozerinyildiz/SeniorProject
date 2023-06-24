@@ -1,0 +1,5 @@
+melanoma
+rosacea
+keratosis_pilaris
+healthy
+eczema
